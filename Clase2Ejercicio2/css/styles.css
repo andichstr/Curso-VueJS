@@ -1,0 +1,17 @@
+body {
+    margin-top: 20px;
+    background-color: darkgray;
+    text-align: center;
+}
+
+input {
+    text-align: center;
+    font-style: italic;
+}
+h1 {
+    color: green;
+}
+
+p {
+    font-weight: bold;
+}
