@@ -6,7 +6,7 @@ var App = new Vue({
     },
     methods: {
         actualizarValor1(e){
-            this.valorInicial1 = e.target.value;
+            this.valorInicial1 = e?.target?.value;
         },
     },
 })
